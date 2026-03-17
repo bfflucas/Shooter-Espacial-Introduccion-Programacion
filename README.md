@@ -111,17 +111,6 @@ style="border:3px solid #555; margin:10px; border-radius:6px;">
 </p>
 
 
----
-
-## Cómo Ejecutar
-
-1. Abrir el proyecto en **Visual Studio**
-2. Compilar el programa
-3. Ejecutar el archivo principal
-
-El juego se ejecutará en la consola.
-
----
 
 ## Autor
 
